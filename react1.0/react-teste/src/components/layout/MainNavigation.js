@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-import classes from './MainNavigation.module.css'; //classes pode ser qualquer nome que quiser
+import classes from './MainNavigation.module.css'; //classes pode ter qualquer nome
 
 function MainNavigation(){
     return (
